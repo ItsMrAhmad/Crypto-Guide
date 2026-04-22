@@ -734,7 +734,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Key Candlestick Patterns</div>
   <div class="chart-image-wrapper">
-    <img src="images/candlestick_patterns.png" alt="Common Candlestick Patterns - Doji, Hammer, Engulfing, Shooting Star, Morning Star">
+    <img src="assets/candlestick_patterns.png" alt="Common Candlestick Patterns - Doji, Hammer, Engulfing, Shooting Star, Morning Star">
     <div class="image-caption">📊 Click to zoom — Doji, Hammer, Engulfing, Shooting Star, Morning Star patterns</div>
   </div>
   <pre>
@@ -824,7 +824,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Support & Resistance Levels</div>
   <div class="chart-image-wrapper">
-    <img src="images/support_resistance.png" alt="Support and Resistance levels on a candlestick chart showing price bouncing between horizontal levels">
+    <img src="assets/support_resistance.png" alt="Support and Resistance levels on a candlestick chart showing price bouncing between horizontal levels">
     <div class="image-caption">📊 Click to zoom — Price bouncing between Support (floor) and Resistance (ceiling)</div>
   </div>
   <pre>
@@ -900,7 +900,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Three Types of Market Trends</div>
   <div class="chart-image-wrapper">
-    <img src="images/market_trends.png" alt="Three market trends - Uptrend, Downtrend, and Sideways shown on candlestick charts">
+    <img src="assets/market_trends.png" alt="Three market trends - Uptrend, Downtrend, and Sideways shown on candlestick charts">
     <div class="image-caption">📊 Click to zoom — Uptrend (HH/HL), Downtrend (LH/LL), and Sideways (Range)</div>
   </div>
   <pre>
@@ -996,7 +996,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Higher Highs & Higher Lows (Bullish Structure)</div>
   <div class="chart-image-wrapper">
-    <img src="images/higher_highs_lows.png" alt="Bullish Market Structure showing Higher Highs and Higher Lows on a candlestick chart">
+    <img src="assets/higher_highs_lows.png" alt="Bullish Market Structure showing Higher Highs and Higher Lows on a candlestick chart">
     <div class="image-caption">📊 Click to zoom — Bullish market structure with HH1, HL1, HH2, HL2, HH3 labeled</div>
   </div>
   <pre>
@@ -1049,7 +1049,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Lower Highs & Lower Lows (Bearish Structure)</div>
   <div class="chart-image-wrapper">
-    <img src="images/lower_highs_lows.png" alt="Bearish Market Structure showing Lower Highs and Lower Lows on a candlestick chart">
+    <img src="assets/lower_highs_lows.png" alt="Bearish Market Structure showing Lower Highs and Lower Lows on a candlestick chart">
     <div class="image-caption">📊 Click to zoom — Bearish market structure with LH1, LL1, LH2, LL2, LH3 labeled</div>
   </div>
   <pre>
@@ -1110,7 +1110,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Break of Structure (BOS) – Bullish Continuation</div>
   <div class="chart-image-wrapper">
-    <img src="images/break_of_structure.png" alt="Break of Structure and Change of Character shown on a candlestick chart">
+    <img src="assets/break_of_structure.png" alt="Break of Structure and Change of Character shown on a candlestick chart">
     <div class="image-caption">📊 Click to zoom — BOS (trend continuation) and CHoCH (trend reversal) on candlestick chart</div>
   </div>
   <pre>
@@ -1197,7 +1197,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Order Block Identification</div>
   <div class="chart-image-wrapper">
-    <img src="images/order_block.png" alt="Bullish and Bearish Order Blocks identified on a candlestick chart">
+    <img src="assets/order_block.png" alt="Bullish and Bearish Order Blocks identified on a candlestick chart">
     <div class="image-caption">📊 Click to zoom — Bullish OB (buy zone) and Bearish OB (sell zone) with price reaction</div>
   </div>
   <pre>
@@ -1254,7 +1254,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Equal Highs & Equal Lows – Liquidity Pools</div>
   <div class="chart-image-wrapper">
-    <img src="images/equal_highs_lows.png" alt="Equal Highs and Equal Lows as liquidity pools on a candlestick chart">
+    <img src="assets/equal_highs_lows.png" alt="Equal Highs and Equal Lows as liquidity pools on a candlestick chart">
     <div class="image-caption">📊 Click to zoom — EQH/EQL liquidity pools with stop losses and sweeps</div>
   </div>
   <pre>
@@ -1335,7 +1335,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">RSI Indicator Visualization</div>
   <div class="chart-image-wrapper">
-    <img src="images/rsi_indicator.png" alt="RSI Relative Strength Index indicator showing overbought and oversold zones with divergence">
+    <img src="assets/rsi_indicator.png" alt="RSI Relative Strength Index indicator showing overbought and oversold zones with divergence">
     <div class="image-caption">📊 Click to zoom — RSI oscillating between 0-100 with overbought (70) and oversold (30) zones</div>
   </div>
   <pre>
@@ -1471,7 +1471,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Risk-Reward Ratio Visualization</div>
   <div class="chart-image-wrapper">
-    <img src="images/risk_reward_ratio.png" alt="Risk-Reward Ratio visualization showing entry, stop loss, and take profit levels on a candlestick chart">
+    <img src="assets/risk_reward_ratio.png" alt="Risk-Reward Ratio visualization showing entry, stop loss, and take profit levels on a candlestick chart">
     <div class="image-caption">📊 Click to zoom — 1:3 R:R setup with Entry, Stop Loss ($58K), and TP1/TP2/TP3 levels</div>
   </div>
   <pre>
@@ -1792,7 +1792,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Liquidity Sweep – Buy Side</div>
   <div class="chart-image-wrapper">
-    <img src="images/liquidity_sweep.png" alt="Liquidity Sweep showing price dipping below support to grab stop losses then reversing">
+    <img src="assets/liquidity_sweep.png" alt="Liquidity Sweep showing price dipping below support to grab stop losses then reversing">
     <div class="image-caption">📊 Click to zoom — Stop Hunt: price sweeps below key level, grabs liquidity, then reverses sharply</div>
   </div>
   <pre>
@@ -1956,7 +1956,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Bullish Fair Value Gap</div>
   <div class="chart-image-wrapper">
-    <img src="images/fair_value_gap.png" alt="Fair Value Gap FVG showing the gap between candle wicks on a candlestick chart">
+    <img src="assets/fair_value_gap.png" alt="Fair Value Gap FVG showing the gap between candle wicks on a candlestick chart">
     <div class="image-caption">📊 Click to zoom — Bullish & Bearish FVG: gap between candle 1 and candle 3 wicks</div>
   </div>
   <pre>
@@ -2584,7 +2584,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Wyckoff Accumulation Schematic</div>
   <div class="chart-image-wrapper">
-    <img src="images/wyckoff_accumulation.png" alt="Wyckoff Accumulation schematic showing PS, SC, AR, ST, Spring, SOS, LPS phases on candlestick chart">
+    <img src="assets/wyckoff_accumulation.png" alt="Wyckoff Accumulation schematic showing PS, SC, AR, ST, Spring, SOS, LPS phases on candlestick chart">
     <div class="image-caption">📊 Click to zoom — Wyckoff Accumulation: PS → SC → AR → ST → Spring → SOS → Markup</div>
   </div>
   <pre>
@@ -2730,7 +2730,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Premium & Discount Zones</div>
   <div class="chart-image-wrapper">
-    <img src="images/premium_discount.png" alt="Premium and Discount zones on candlestick chart with 50% equilibrium line">
+    <img src="assets/premium_discount.png" alt="Premium and Discount zones on candlestick chart with 50% equilibrium line">
     <div class="image-caption">📊 Click to zoom — Buy in Discount (below 50%), Sell in Premium (above 50%)</div>
   </div>
   <pre>
@@ -2885,7 +2885,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Bitcoin Halving History & Price Impact</div>
   <div class="chart-image-wrapper">
-    <img src="images/bitcoin_halving.png" alt="Bitcoin price history with halving events marked showing bull runs after each halving">
+    <img src="assets/bitcoin_halving.png" alt="Bitcoin price history with halving events marked showing bull runs after each halving">
     <div class="image-caption">📊 Click to zoom — BTC price after each halving: 2012 ($12→$1.1K), 2016 ($650→$20K), 2020 ($8.5K→$69K)</div>
   </div>
   <pre>
@@ -3286,7 +3286,7 @@ const BONUS_DATA = {
 <h4>Frequently Asked Questions</h4>
 
 <p><strong>Q: How much money do I need to start trading crypto?</strong></p>
-<p>You can start with as little as <strong>$50-$100</strong> on Spot trading. For Futures, a recommended minimum is $200-$500. However, focus on learning with a demo account first before risking real money.</p>
+<p>You can start with as little as <strong>$50-$100</strong> on Spot trading. For Futures, which is totally <strong>Haram</strong> in islam & i won't recommend it to anyone. However, focus on learning with a demo account first before risking real money.</p>
 
 <p><strong>Q: Is crypto trading halal/permissible?</strong></p>
 <p>Spot trading (buying and holding actual crypto) is generally considered permissible by many scholars. Futures/leverage trading is more debatable — consult a knowledgeable scholar for your specific situation.</p>
