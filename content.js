@@ -693,7 +693,7 @@ const COURSE_DATA = [
 <div class="diagram-container">
   <div class="diagram-title">Anatomy of a Candlestick</div>
   <div class="chart-image-wrapper">
-    <img src="images/candlestick_anatomy.png" alt="Candlestick Anatomy - Bullish and Bearish candles with Open, Close, High, Low, Wick and Body labeled">
+    <img src="assets/candlestick_anatomy.png" alt="Candlestick Anatomy - Bullish and Bearish candles with Open, Close, High, Low, Wick and Body labeled">
     <div class="image-caption">📊 Click to zoom — Bullish (green) vs Bearish (red) candlestick anatomy</div>
   </div>
   <pre>
