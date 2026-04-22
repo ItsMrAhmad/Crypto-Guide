@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "CryptoClass is a modern, responsive e-learning platform designed to deliver structured cryptocurrency trading education. The platform features a progressive curriculum spanning beginner to pro levels, complete with progress tracking and interactive lesson modules.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsMrAhmad/CryptoClass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsMrAhmad/CryptoClass/issues"
+  },
+  "homepage": "https://github.com/ItsMrAhmad/CryptoClass#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
